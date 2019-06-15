@@ -1,0 +1,170 @@
+*{box-sizing:border-box;}
+
+
+.borde-d-i {
+    margin: 0 5px 0 0;
+    height: 60px;
+    width: 20%;
+    float: left;
+   } 
+
+        .header-logo-texts {
+            margin: 0 5px 0 0;
+            height: 60px;
+            width: 58%;
+            float: left;
+        }
+
+        .header-logo {
+            background-image: url("http://saludymedicinainterna.com.mx/wp-content/uploads/2017/10/logo-medicina-interna.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;  
+            margin: 5px;
+            height: 49px;
+            width: 30%;
+            float: left;
+        }
+
+
+        .header-texts {border: 1px solid gray;
+            margin: 5px;
+            height: 49px;
+            width: 67.2%;
+            float: left;
+        }
+
+
+.menu {
+    background-color: black; 
+    margin: 5px 0 5px 0;
+    height: 35px;
+    width: 98.8%;
+    float: left;
+    } 
+
+.menu-d-i { 
+    margin: 0 5px 0 0;
+    height: 35px;
+    width: 21%;
+    float: left;
+    } 
+
+.inicio {
+    color: #ffffff;
+    padding: 3px;
+    margin: 5px;
+    height: 50px;
+    width: 5%;
+    float: left;
+} 
+
+.quienes-somos {
+    color: #ffffff;
+    padding: 3px;
+    margin: 5px;
+    height: 50px;
+    width: 11%;
+    float: left;
+} 
+
+.proyectos {
+    color: #ffffff;
+    padding: 3px;
+    margin: 5px;
+    height: 50px;
+    width: 8%;
+    float: left;
+} 
+
+.contacto {
+    color: #ffffff;
+    padding: 3px;
+    margin: 5px;
+    height: 50px;
+    width: 5%;
+    float: left;
+} 
+
+.banner {background-color: #3f86c0;
+    background-image: url("https://template53228.motopreview.com/mt-demo/53200/53228/mt-content/uploads/2015/04/mt-0012-about-slider1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+    margin: 5px 0 5px 0;
+    height: 225px;
+    width: 98.8%;
+    float: left;
+    } 
+
+.inf-grande {
+    color: #ffffff; 
+    margin: 5px 0 5px 0;
+    height: 200px;
+    width: 98.8%;
+    float: left;
+    } 
+
+.inf-d-i {
+    color: #ffffff;  
+    height: 199px;
+    width: 21%;
+    float: left;
+    } 
+
+    .inf-mundo {
+        background-color: #3f86c0; 
+        height: 199px;
+        width: 15%;
+        float: left;
+        } 
+
+    .inf-idea {
+        background-color: #306fa3; 
+        height: 199px;
+        width: 15%;
+        float: left;
+        }
+
+    .inf-configurar {
+        background-color: #2b6492; 
+        height: 199px;
+        width: 15%;
+        float: left;
+        }
+
+    .inf-herramienta {
+        background-color: #255a85; 
+        height: 199px;
+        width: 15%;
+        float: left;
+        }
+
+        .final {
+            margin: 0 5px 0 0;
+            height: 88px;
+            width: 58%;
+            float: left;
+        }
+        .final-1 {
+            margin: 5px;
+            height: 78px;
+            width: 48.5%;
+            float: left;
+        }
+
+
+        .final-icono { 
+            background-color: #2b6492;
+            margin: 5px;
+            height: 68px;
+            width: 19%;
+            float: left;
+        }
+
+        .final-texts {
+            margin: 5px;
+            height: 68px;
+            width: 75%;
+            float: left;
+        }

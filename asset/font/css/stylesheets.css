@@ -1,0 +1,107 @@
+*{box-sizing:border-box;}
+
+.prueba{ border: 1px solid red; 
+ padding: 5px 5px 5px 5px; 
+ margin: 0px 0px 10px 0px;
+ height: 44px;
+} 
+
+.prueba-interno{border: 1px solid blue;
+width: 15%;
+float: left; 
+ margin: 6px 6px 6px 6px;
+ padding: 0 0 0 10px;
+}
+ 
+.chiavez{ border: 1px solid blue; 
+padding: 0 10px 0 15px;
+margin: 0 auto 10px;
+height: 360px;
+color: #ffffff;
+background-color: gray;
+background-image: url("../img/img-3.jpg");
+background-repeat: repeat;
+background-position: center;
+background-size: cover;
+}
+
+.button { border: 1px solid grey; 
+padding: 10px 10px 10px 10px;
+margin: 0 auto 10px; 
+width: 33%;
+text-align: center; 
+border-radius: 10px;
+}
+
+.abuelo {
+	
+}
+
+.padre-1 { border: 1px solid blue;
+width: 75%;
+height: 220px;
+float: left;  
+margin: 0 10px 0 0; 
+}
+
+.hijo-1 { border: 1px solid red; 
+width: 47%;
+height: 150px;
+float: left; 
+margin: 10px 0 10px 10px; 
+padding: 15px;
+}
+
+    .color-blue {
+    color: blue;
+    }
+
+.hijo-2 { border: 1px solid blue;
+width: 48%;
+float: left;
+height: 150px;
+margin: 10px 0 10px 10px; 
+}
+
+.hijo-3 { border: 1px solid orange;
+height: 40px;
+width: 95%;
+float: left;
+margin: 0 0 10px 10px;
+padding: 5px;
+}
+
+.bisnieto-2-1 { border: 1px solid red;
+width: 92%;
+height: 85px; 
+margin: 10px 0 10px 10px; 
+padding: 5px;
+}
+
+.bisnieto-2-2 { border: 1px solid red;
+width: 92% ;
+height: 35px; 
+margin: 10px 0 10px 10px;
+padding: 5px;
+}
+
+.padre-2 { border: 1px solid blue;
+width: 20%;
+height: 220px;
+float: left;
+margin: 0 0 10px 0px; 
+}
+
+.hijo-2-1 { border: 1px solid red;
+height: 40px;
+widht: 15%;
+margin: 10px 10px 10px 10px;
+padding: 5px;
+}
+	
+.hijo-2-2 { border: 1px solid red;
+height: 50px;
+widht: 15%;
+margin: 10px 10px 10px 10px; 
+padding: 5px;
+}
